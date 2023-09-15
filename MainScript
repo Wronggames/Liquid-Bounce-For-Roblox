@@ -145,7 +145,7 @@ Callback = <function> - The function of the button.
 BlatantSection:AddSlider({
 	Name = "Kill-aura-range",
 	Min = 0,
-	Max = 300.2,
+	Max = 10203120.2,
 	Default = 196.2,
 	Color = Color3.fromRGB(255,255,255),
 	Increment = 1,
