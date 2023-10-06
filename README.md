@@ -1,5 +1,8 @@
 # Liquid-Bounce-For-RobloxV1
-just MC liquid bounce for roblox.
+just MC liquid bounce for roblox. currently only compatible with the game:
+```lua
+https://www.roblox.com/games/6441847031/CHAOS-UPDATE
+```
 
 # Loadstring
 ```lua
