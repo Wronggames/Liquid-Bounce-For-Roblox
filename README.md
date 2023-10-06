@@ -4,7 +4,8 @@ just MC liquid bounce for roblox. currently only compatible with the game:
 https://www.roblox.com/games/6441847031/CHAOS-UPDATE
 ```
 
-# Loadstring
+# Loadstrings
+V1:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Wronggames/Liquid-Bounce-For-RobloxV1/main/MainScript", true))()
 ```
